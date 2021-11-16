@@ -1,89 +1,89 @@
-#Amazon Ads
+!Amazon Ads
 
-https://analyticsengine.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
+||analyticsengine.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
 
-#MouseFlow Analytics
+!MouseFlow Analytics
 
-https://mouseflow.com/
-https://a.mouseflow.com
+||mouseflow.com^
+||a.mouseflow.com^
 
-#FreshMarketer Analytics
-https://freshmarketer.com/
+!FreshMarketer Analytics
+||freshmarketer.com^
 
-#Luckyorange Analytics
-https://luckyorange.com
-https://cdn.luckyorange.com
-https://w1.luckyorange.com
-https://upload.luckyorange.net
-https://cs.luckyorange.net
-https://settings.luckyorange.net
+!Luckyorange Analytics
+||luckyorange.com^
+||cdn.luckyorange.com^
+||w1.luckyorange.com^
+||upload.luckyorange.net^
+||cs.luckyorange.net^
+||settings.luckyorange.net^
 
-#Stats WP Plugin
-https://stats.wp.com
+!Stats WP Plugin
+||stats.wp.com^
 
-#Bugsnag Error Trackers
-https://notify.bugsnag.com
-https://sessions.bugsnag.com
-https://api.bugsnag.com
-https://app.bugsnag.com
+!Bugsnag Error Trackers
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
 
-#Sentry Error Trackers
-https://browser.sentry-cdn.com
-https://app.getsentry.com
+!Sentry Error Trackers
+||browser.sentry-cdn.com^
+||app.getsentry.com^
 
-#Twitter
-https://advertising.twitter.com
+!Twitter
+||advertising.twitter.com^
 
-#Pinterest
-https://log.pinterest.com
-https://ads-dev.pinterest.com
-https://widgets.pinterest.com
+!Pinterest
+||log.pinterest.com^
+||ads-dev.pinterest.com^
+||widgets.pinterest.com^
 
-#Reddit
-https://d.reddit.com
+!Reddit
+||d.reddit.com^
 
-#Youtube
-https://analytics-sg.tiktok.com
+!Youtube
+||analytics-sg.tiktok.com^
 
-#Yandex
-https://analytics.mobile.yandex.net
-https://appmetrica.yandex.com
-https://yandexadexchange.net
-https://extmaps-api.yandex.net
-https://adsdk.yandex.ru
+!Yandex
+||analytics.mobile.yandex.net^
+||appmetrica.yandex.com^
+||yandexadexchange.net^
+||extmaps-api.yandex.net^
+||adsdk.yandex.ru^
 
-#Xiaomi
-https://data.mistat.xiaomi.com
-https://data.mistat.intl.xiaomi.com
-https://data.mistat.india.xiaomi.com
-https://data.mistat.rus.xiaomi.com
-https://tracking.miui.com
-https://sa.api.intl.miui.com
-https://tracking.miui.com
-https://tracking.intl.miui.com
-https://tracking.india.miui.com
-https://tracking.rus.miui.com
+!Xiaomi
+||data.mistat.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.ru^s.xiaomi.com^
+||tracking.miui.com^
+||sa.api.intl.miui.com^
+||tracking.miui.com^
+||tracking.intl.miui.com^
+||tracking.india.miui.com^
+||tracking.ru^s.miui.com^
 
-#Huawei
-https://logservice.hicloud.com
-https://logservice1.hicloud.com
-https://logbak.hicloud.com
+!Huawei
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||logbak.hicloud.com^
 
-#OnePlus
-https://analytics.oneplus.cn
-https://click.oneplus.cn
-https://open.oneplus.net
+!OnePlus
+||analytics.oneplus.cn^
+||click.oneplus.cn^
+||open.oneplus.net^
 
-#Samsung
-https://smetrics.samsung.com
-https://samsung-com.112.2o7.net
-https://business.samsungusa.com
-https://analytics-api.samsunghealthcn.com
+!Samsung
+||smetrics.samsung.com^
+||samsung-com.112.2o7.net^
+||business.samsungusa.com^
+||analytics-api.samsunghealthcn.com^
 
-#Apple
-https://securemetrics.apple.com
-https://supportmetrics.apple.com
-https://metrics.icloud.com
-https://metrics.mzstatic.com
+!Apple
+||securemetrics.apple.com^
+||supportmetrics.apple.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
